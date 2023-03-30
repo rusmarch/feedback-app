@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit?"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, quam."
+    },
+    {
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing ipsum arenum",
+      "rating": 9,
+      "id": 3
+    }
+  ]
+}
